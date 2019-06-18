@@ -17,6 +17,6 @@
   background-color: #FFFFFF!important;
 }
 
-.mr-sm-2 {
+input.form-control mr-sm-2 {
   text-align: center;
 }
