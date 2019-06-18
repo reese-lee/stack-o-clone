@@ -1,0 +1,22 @@
+.bg-dark {
+  background-color: #fafafb!important;
+}
+
+.btn-outline-success {
+  background-color: #0094ff!important;
+  color: #FFFFFF;
+  border: none;
+}
+
+.btn-outline-info {
+  background-color: #fafafb!important;
+  border: none;
+}
+
+.lowerBar {
+  background-color: #FFFFFF!important;
+}
+
+.mr-sm-2 {
+  text-align: center;
+}
